@@ -120,6 +120,16 @@ get_template_part('index','banner'); ?>
                     <div class="sponsorsOfficial">
                         <?php
                             $args = array(
+                                "site_url"  => "https://palisadepartners.com.au/",
+                                "div_id"    => "palisadepartners",
+                                "name"      => "Palisade Partners",
+                                "image_file"=> "2022/04/Palisade.png",
+                                "detail"    => ""
+                            );
+                            get_template_part("templates/individual_sponsor", null, $args);
+                        ?>
+                        <?php
+                            $args = array(
                                 "site_url"  => "https://www.ampcapital.com/au/en/home",
                                 "div_id"    => "AMP",
                                 "name"      => "AMP",
@@ -130,39 +140,30 @@ get_template_part('index','banner'); ?>
                         ?>
                         <?php
                             $args = array(
-                                "site_url"  => "https://www.db.com/index?language_id=1",
-                                "div_id"    => "db",
-                                "name"      => "db",
-                                "image_file"=> "2021/06/1593590065657.jpg",
+                                "site_url"  => "https://www.flowtraders.com/",
+                                "div_id"    => "flowtraders",
+                                "name"      => "Flow Traders",
+                                "image_file"=> "2021/01/ft.png",
                                 "detail"    => ""
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>
                         <?php
                             $args = array(
-                                "site_url"  => "https://longreachalternatives.com/",
-                                "div_id"    => "longreach",
-                                "name"      => "longreach",
-                                "image_file"=> "2021/05/longreach.jpg",
+                                "site_url"  => "https://nousgroup.com/",
+                                "div_id"    => "nous",
+                                "name"      => "Nous Group",
+                                "image_file"=> "2022/04/nous.png",
                                 "detail"    => ""
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>
                         <?php
                             $args = array(
-                                "site_url"  => "https://www.bloomberg.com/asia",
-                                "div_id"    => "Bloomberg",
-                                "name"      => "Bloomberg",
-                                "image_file"=> "2021/05/Bloomberg.jpg",
-                            );
-                            get_template_part("templates/individual_sponsor", null, $args);
-                        ?>
-                        <?php
-                            $args = array(
-                                "site_url"  => "https://www.pottinger.com/",
-                                "div_id"    => "Pottinger",
-                                "name"      => "Pottinger",
-                                "image_file"=> "2021/06/pottinger.jpg",
+                                "site_url"  => "https://www.pacpartners.com.au/",
+                                "div_id"    => "pacpartners",
+                                "name"      => "PAC Partners",
+                                "image_file"=> "2022/04/Pac-1.jpg",
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>
@@ -173,16 +174,6 @@ get_template_part('index','banner'); ?>
                         <hr/>
                     </div>
                     <div class="sponsorsOfficial">
-                        <?php
-                            $args = array(
-                                "site_url"  => "https://www.flowtraders.com/",
-                                "div_id"    => "flowtraders",
-                                "name"      => "flowtraders",
-                                "image_file"=> "2021/01/ft.png",
-                                "detail"    => ""
-                            );
-                            get_template_part("templates/individual_sponsor", null, $args);
-                        ?>
                         <?php
                             $args = array(
                                 "site_url"  => "https://cfas.org.au/about/cfa-society-sydney/",
