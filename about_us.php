@@ -27,7 +27,7 @@ get_template_part('index','banner'); ?>
                         "person_position"   => "Co-President",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
                         "linkedin_url"      => "https://www.linkedin.com/in/anthony-merrynal-39324316b/",
-                        "DegreeYear"        => "Bachelor of Commerce/Economics",
+                        "DegreeYear"        => "Bachelor of Commerce/Economic/Law - 5th year",
                         "drives"            => "Friends, family and the constant need to learn adapt and succeed in a fast paced environment"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
