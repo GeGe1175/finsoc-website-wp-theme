@@ -80,7 +80,6 @@ get_template_part('index','banner'); ?>
                         <h1 class="h2Custom"><span style="color:#A0A0A0">SILVER</span> SPONSORS</h1>
                         <hr/>
                     </div>
-
                     <div class="sponsorsOfficial">
                         <?php
                             $args = array(
@@ -113,7 +112,6 @@ get_template_part('index','banner'); ?>
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>
                     </div>
-
                     <div class="subheading">
                         <br/>
                         <h1 class="h2Custom"><span style="color:#9F6C3F">BRONZE</span> SPONSORS</h1>
