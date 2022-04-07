@@ -93,20 +93,50 @@ get_template_part('index','banner'); ?>
                         ?>
                         <?php
                             $args = array(
-                                "site_url"  => "https://www.neu.capital/",
-                                "div_id"    => "neucapital",
-                                "name"      => "Neucapital",
-                                "image_file"=> "2021/05/neucapital2-scaled.jpg",
+                                "site_url"  => "https://www.greenstonepartners.com.au/",
+                                "div_id"    => "Greenstone",
+                                "name"      => "Greenstone",
+                                "image_file"=> "2021/05/greenstonepartners.png",
                                 "detail"    => ""
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>
                         <?php
                             $args = array(
-                                "site_url"  => "https://www.greenstonepartners.com.au/",
-                                "div_id"    => "Greenstone",
-                                "name"      => "Greenstone",
-                                "image_file"=> "2021/05/greenstonepartners.png",
+                                "site_url"  => "https://www.superhero.com.au/",
+                                "div_id"    => "Superhero",
+                                "name"      => "Superhero",
+                                "image_file"=> "2022/04/superhero.png",
+                                "detail"    => ""
+                            );
+                            get_template_part("templates/individual_sponsor", null, $args);
+                        ?>
+                        <?php
+                            $args = array(
+                                "site_url"  => "https://www.calebandbrown.com/",
+                                "div_id"    => "Caleb & Brown",
+                                "name"      => "Caleb & Brown",
+                                "image_file"=> "2022/04/calebandbrown.png",
+                                "detail"    => ""
+                            );
+                            get_template_part("templates/individual_sponsor", null, $args);
+                        ?>    
+                        <?php
+                            $args = array(
+                                "site_url"  => "https://fpa.com.au/",
+                                "div_id"    => "fpa",
+                                "name"      => "fpa",
+                                "image_file"=> "2022/04/fpa.png",
+                                "detail"    => ""
+                            );
+                            get_template_part("templates/individual_sponsor", null, $args);
+                        ?>
+                        <?php
+                            $args = array(
+                                "site_url"  => "https://www.lendlease.com/au/",
+                                "div_id"    => "lendlease",
+                                "name"      => "lendlease",
+                                "image_file"=> "2022/04/lendlease.png",
                                 "detail"    => ""
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
