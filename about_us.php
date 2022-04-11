@@ -281,7 +281,7 @@ get_template_part('index','banner'); ?>
                         "person_position"   => "Sponsorships Director",
                         "mailto_address"    => "sponsorships@unswfinsoc.org.au",
                         "linkedin_url"      => "https://www.linkedin.com/in/alexjlcai/",
-                        "DegreeYear"        => "Bachelor of Commerce & Economics 3rd Year",
+                        "DegreeYear"        => "Bachelor of Commerce & Law 3rd Year",
                         "drives"            => "Too financially irresponsible to be in a finance society"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
