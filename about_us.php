@@ -282,7 +282,7 @@ get_template_part('index','banner'); ?>
                         "mailto_address"    => "sponsorships@unswfinsoc.org.au",
                         "linkedin_url"      => "https://www.linkedin.com/in/alexjlcai/",
                         "DegreeYear"        => "Bachelor of Commerce & Law 3rd Year",
-                        "drives"            => "Too financially irresponsible to be in a finance society"
+                        "drives"            => "I'm another classic Commerce and Laws student but enjoy studying Design on the side. I currently work as a takeovers paralegal, but when I'm not working or studying, I love trying out unique food with friends, spontaneous adventures, and attempting different hobbies. I live by the motto 'why not?', which once led me to becoming a finalist in a national photography competition that I got dared into entering."
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
