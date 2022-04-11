@@ -45,10 +45,10 @@ get_template_part('index','banner'); ?>
                     <div class="sponsorsOfficial">
                         <?php
                             $args = array(
-                                "site_url"  => "https://www.reckitt.com/",
-                                "div_id"    => "reckitt",
-                                "name"      => "reckitt",
-                                "image_file"=> "2021/05/Reckitt_2021.svg_.png",
+                                "site_url"  => "https://www.db.com/index?language_id=1",
+                                "div_id"    => "db",
+                                "name"      => "db",
+                                "image_file"=> "2021/06/1593590065657.jpg",
                                 "detail"    => ""
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
@@ -63,13 +63,22 @@ get_template_part('index','banner'); ?>
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>
-
                         <?php
                             $args = array(
-                                "site_url"  => "https://www.tmgm.com.au/en",
-                                "div_id"    => "TMGM",
-                                "name"      => "TMGM",
-                                "image_file"=> "2021/05/tmgm.png",
+                                "site_url"  => "https://www.nexia.com.au/",
+                                "div_id"    => "na",
+                                "name"      => "Nexia Australia",
+                                "image_file"=> "2022/04/nexia.jpg",
+                                "detail"    => ""
+                            );
+                            get_template_part("templates/individual_sponsor", null, $args);
+                        ?>
+                        <?php
+                            $args = array(
+                                "site_url"  => "https://www.clearview.com.au/",
+                                "div_id"    => "cv",
+                                "name"      => "Clear View",
+                                "image_file"=> "2022/04/clearview.jpg",
                                 "detail"    => ""
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
