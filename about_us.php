@@ -206,7 +206,7 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2021/01/Professional-Photos-28-of-29-scaled-e1611456390446.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2021/01/Professional-Photos-15-of-29-scaled-e1650622761718.jpg",
                         "person_name"       => "Nahum Adeel",
                         "person_position"   => "Education Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
@@ -262,7 +262,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2021/01/Professional-Photos-26-of-29-scaled-e1611456215574.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/04/Avaneesh.jpg",
                         "person_name"       => "Avaneesh Shrestha",
                         "person_position"   => "Sponsorships Director",
                         "mailto_address"    => "sponsorships@unswfinsoc.org.au",
