@@ -55,10 +55,10 @@ get_template_part('index','banner'); ?>
                         ?>
                         <?php
                             $args = array(
-                                "site_url"  => "https://www.franklintempleton.com.au/",
+                                "site_url"  => "https://bcr.com.au/",
                                 "div_id"    => "bcr",
-                                "name"      => "Franklin Templeton Investments",
-                                "image_file"=> "2021/01/Franklin.jpg",
+                                "name"      => "BCR",
+                                "image_file"=> "2022/05/bcr-2.png",
                                 "detail"    => ""
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
@@ -203,22 +203,6 @@ get_template_part('index','banner'); ?>
                                 "div_id"    => "pacpartners",
                                 "name"      => "PAC Partners",
                                 "image_file"=> "2022/04/Pac-1.jpg",
-                            );
-                            get_template_part("templates/individual_sponsor", null, $args);
-                        ?>
-                    </div>
-                    <div class="subheading">
-                        <br/>
-                        <h1 class="h2Custom"><span style="color:#553397">MARKETING</span> SPONSORS</h1>
-                        <hr/>
-                    </div>
-                    <div class="sponsorsOfficial">
-                        <?php
-                            $args = array(
-                                "site_url"  => "https://cfas.org.au/about/cfa-society-sydney/",
-                                "div_id"    => "CFA",
-                                "name"      => "CFA",
-                                "image_file"=> "2021/06/CFA-e1622626128904.jpg",
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>
