@@ -26,7 +26,7 @@ get_template_part('index','banner'); ?>
                         "person_name"       => "Rishi Chhugani",
                         "person_position"   => "Co-President",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/anthony-merrynal-39324316b/",
+                        "linkedin_url"      => "https://www.linkedin.com/in/rishi-chhugani123/",
                         "DegreeYear"        => "Bachelor of Commerce/Law - 5th year",
                         "drives"            => "Friends, family and the constant need to learn adapt and succeed in a fast paced environment"
                     );
@@ -81,7 +81,7 @@ get_template_part('index','banner'); ?>
                         "person_name"       => "Vedant Shah",
                         "person_position"   => "Vice President (Externals)",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/nahum-adeel/",
+                        "linkedin_url"      => "https://www.linkedin.com/in/vedant-shah1/",
                         "DegreeYear"        => "Bachelor of Actuarial Studies & Commerce - 4th year",
                         "drives"            => "Seeing the big picture impact of my work and creating a genuine positive change  "
                     );
@@ -98,7 +98,7 @@ get_template_part('index','banner'); ?>
                         "person_name"       => "Katherine Mo",
                         "person_position"   => "Vice President (Operations)",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/rishi-chhugani123/",
+                        "linkedin_url"      => "https://www.linkedin.com/in/katherine-mo/",
                         "DegreeYear"        => "4th Year - Law/Commerce",
                         "drives"            => "The enjoyment of learning and the satisfaction of achievement."
                     );
