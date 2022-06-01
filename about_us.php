@@ -280,7 +280,7 @@ get_template_part('index','banner'); ?>
                         "person_name"       => "Mandy Zhou",
                         "person_position"   => "Sponsorships Director",
                         "mailto_address"    => "sponsorships@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/alexjlcai/",
+                        "linkedin_url"      => "https://www.linkedin.com/in/mandy-zhou-9a35ab1a0/",
                         "DegreeYear"        => "Bachelor of Commerce & Law 3rd Year",
                         "drives"            => "I'm another classic Commerce and Laws student but enjoy studying Design on the side. I currently work as a takeovers paralegal, but when I'm not working or studying, I love trying out unique food with friends, spontaneous adventures, and attempting different hobbies. I live by the motto 'why not?', which once led me to becoming a finalist in a national photography competition that I got dared into entering."
                     );
@@ -309,7 +309,7 @@ get_template_part('index','banner'); ?>
                         "person_name"       => "Matthew Sulistyo",
                         "person_position"   => "Research Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/bryan-gunawan-a9647818a/",
+                        "linkedin_url"      => "https://www.linkedin.com/in/matthew-sulistyo/",
                         "DegreeYear"        => "3rd Year Law/Commerce ",
                         "drives"            => "Chill"
                     );
@@ -372,7 +372,7 @@ get_template_part('index','banner'); ?>
                         "person_name"       => "Oliver Ryan",
                         "person_position"   => "Publications Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/alex-wong-aspirant/",
+                        "linkedin_url"      => "https://www.linkedin.com/in/oliver-nicholas-ryan/",
                         "DegreeYear"        => "3rd year Commerce (Finance)/Law",
                         "drives"            => "Being able to look back on my life without regrets."
                     );
