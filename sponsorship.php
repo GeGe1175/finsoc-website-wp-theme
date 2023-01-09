@@ -150,6 +150,16 @@ get_template_part('index','banner'); ?>
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>
+                        <?php
+                            $args = array(
+                                "site_url"  => "https://pinnacleinvestment.com/",
+                                "div_id"    => "pinnacleinvestment",
+                                "name"      => "pinnacleinvestment",
+                                "image_file"=> "2023/01/pinnacleinvestment.png",
+                                "detail"    => ""
+                            );
+                            get_template_part("templates/individual_sponsor", null, $args);
+                        ?>
                     </div>
                     <div class="subheading">
                         <br/>
