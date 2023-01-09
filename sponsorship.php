@@ -155,7 +155,7 @@ get_template_part('index','banner'); ?>
                                 "site_url"  => "https://pinnacleinvestment.com/",
                                 "div_id"    => "pinnacleinvestment",
                                 "name"      => "pinnacleinvestment",
-                                "image_file"=> "2023/01/pinnacleinvestment.png",
+                                "image_file"=> "2023/01/Pinnacle.png",
                                 "detail"    => ""
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
