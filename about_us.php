@@ -23,26 +23,23 @@ get_template_part('index','banner'); ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02116-scaled-e1648184720598.jpg",
-                        "person_name"       => "Rishi Chhugani",
+                        "person_name"       => "James Layland",
                         "person_position"   => "Co-President",
-                        "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/rishi-chhugani123/",
-                        "DegreeYear"        => "Bachelor of Commerce/Law - 5th year",
-                        "drives"            => "Friends, family and the constant need to learn adapt and succeed in a fast paced environment"
+                        "mailto_address"    => "https://www.linkedin.com/in/james-layland/",
+                        "DegreeYear"        => "Bachelor of Commerce/Economics - 4th year",
+                        "drives"            => ""
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02122-scaled-e1648188187561.jpg",
-                        "person_name"       => "Siqi Yang",
+                        "person_name"       => "Salena Bhalerao",
                         "person_position"   => "Co-President",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/siqi-yang-2000",
-                        "DegreeYear"        => "Bachelor of Commerce/Law - 4th year",
-                        "drives"            => "I'm your typical jaded finance and law fourth year but unironically wishes to stay in uni forever.
-                                                Huge fan of true crime, a sucker for ghastly cases with unhinged facts - I promise I am sane!
-                                                In my spare time, I like to lose money in the share-market, eat an unhealthy amount of fries, and listen to K-POP bops. "
+                        "linkedin_url"      => "https://www.linkedin.com/in/salena-bhalerao/",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Law - 4th year",
+                        "drives"            => "I am currently working in Investment Banking as an intern and love travel, golf and trying different food."                        "
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -54,36 +51,37 @@ get_template_part('index','banner'); ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02141-scaled-e1648188696168.jpg",
-                        "person_name"       => "Queenie Li",
+                        "person_name"       => "Warren O",
                         "person_position"   => "Vice President (Activities)",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/queeniecyli",
+                        "linkedin_url"      => "https://www.linkedin.com/in/warren-o-9448091a5/",
                         "DegreeYear"        => "Bachelor of Commerce/Information Systems - 3rd year",
-                        "drives"            => "Hi, I’m Queenie! In my spare time I enjoy reading & watching conspiracy theories, going out for brunch and driving to nice lookouts."
+                        "drives"            => "Unchain the rage with this D-Sturb bass"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02134-scaled-e1648188664679.jpg",
-                        "person_name"       => "Alex Cai",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Daniel-Xu.jpg",
+                        "person_name"       => "Daniel Xu",
                         "person_position"   => "Vice President (Externals)",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/alexjlcai/",
-                        "DegreeYear"        => "Bachelor of Commerce/Economics - 4th year",
-                        "drives"            => "will beat you at mario kart"
+                        "linkedin_url"      => "https://www.linkedin.com/in/danielxusydney/",
+                        "DegreeYear"        => "Bachelor of Commerce/Law - 4th year",
+                        "drives"            => "Commerce and law academic at UNSW who is driven by to always learn and grow as a 
+                                                person while also making a positive impact. I enjoy travelling, trying new experiences and reading. In the future I hope to be doing something I love."
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02068-scaled-e1648184949212.jpg",
-                        "person_name"       => "Vedant Shah",
+                        "person_name"       => "Avaneesh Shrestha",
                         "person_position"   => "Vice President (Externals)",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/vedant-shah1/",
-                        "DegreeYear"        => "Bachelor of Actuarial Studies & Commerce - 4th year",
-                        "drives"            => "Seeing the big picture impact of my work and creating a genuine positive change  "
+                        "linkedin_url"      => "https://www.linkedin.com/in/avaneesh-shrestha-25331019b",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Information Systems - 4th year",
+                        "drives"            => "I might have ADHD"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -95,24 +93,24 @@ get_template_part('index','banner'); ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02096-scaled-e1648186179169.jpg",
-                        "person_name"       => "Katherine Mo",
+                        "person_name"       => "Oliver Ryan",
                         "person_position"   => "Vice President (Operations)",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/katherine-mo/",
-                        "DegreeYear"        => "4th Year - Law/Commerce",
-                        "drives"            => "The enjoyment of learning and the satisfaction of achievement."
+                        "linkedin_url"      => "https://www.linkedin.com/in/oliver-n-ryan/",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Law - 4th year",
+                        "drives"            => "Join finsoc!"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02108-scaled-e1648187698603.jpg",
-                        "person_name"       => "Nick Joeng",
+                        "person_name"       => "Galen Yuan",
                         "person_position"   => "General Secretary",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/audrey-yeo/",
-                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Bachelor of Science (Biotechnology) | 4th year",
-                        "drives"            => "Fear of failure"
+                        "linkedin_url"      => "https://www.linkedin.com/in/galen-yuan/",
+                        "DegreeYear"        => "Bachelor of Commerce/Computer Engineering - 3rd year",
+                        "drives"            => "Gym"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -126,28 +124,25 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02112-scaled-e1648187779243.jpg",
-                        "person_name"       => "Amy Toms",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Daisy-Liu-scaled.jpg",
+                        "person_name"       => "Daisy Liu",
                         "person_position"   => "HR Director",
                         "mailto_address"    => "hr@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/amy-toms-426b46193",
-                        "DegreeYear"        => "Bachelor of Commerce - 3rd year",
-                        "drives"            => "I’m studying a bachelor of commerce majoring in finance. Im working at Macquarie Group & HR director for FINSOC.
-                                                I enjoy bonding and making fulfilling friendships! I’m a bit of a home body, and spend most of my time sleeping or lounging in bed.
-                                                When I’m not doing that, I love to go shopping with friends, go to the gym and yoga and eating out with friends.
-                                                I may come off as quiet at first, but once I get to know you I will be your best friend!"
+                        "linkedin_url"      => "https://www.linkedin.com/in/daisy-liu4",
+                        "DegreeYear"        => "Bachelor of Commerce/Information Systems - 2nd year",
+                        "drives"            => "My record screen time for Linkedin is 6 hours"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02118-scaled-e1648188158755.jpg",
-                        "person_name"       => "Galen Yuan",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Andy-Lin-scaled.jpg",
+                        "person_name"       => "Andy Lin",
                         "person_position"   => "HR Director",
                         "mailto_address"    => "hr@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/galen-yuan/",
-                        "DegreeYear"        => "Bachelor of Commerce/Computer Engineering - 2nd year",
-                        "drives"            => "Gym"
+                        "linkedin_url"      => "",
+                        "DegreeYear"        => "Bachelor of Comupter Science - 3rd year",
+                        "drives"            => "I like kfc"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -159,40 +154,36 @@ get_template_part('index','banner'); ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02102-scaled-e1648186727340.jpg",
-                        "person_name"       => "William Jiang",
+                        "person_name"       => "Jordan Li",
                         "person_position"   => "Social Director",
                         "mailto_address"    => "events@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/jason-tong-a96207161/",
-                        "DegreeYear"        => "Commerce/Media (PR & Advertising)",
-                        "drives"            => "Work hard play hard"
+                        "linkedin_url"      => "",
+                        "DegreeYear"        => "Bachelor of Psychology (Honours) - 3rd year",
+                        "drives"            => "dab dab dab"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02105-scaled-e1648187670897.jpg",
-                        "person_name"       => "Warren O",
+                        "person_name"       => "Jessica Wiraatmadja",
                         "person_position"   => "Social Director",
                         "mailto_address"    => "events@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/warren-o-9448091a5/",
-                        "DegreeYear"        => "Bachelor of Commerce/Information Systems - 2nd year",
-                        "drives"            => "I live by the quote that \"Success consists of going from failure to failure without loss of enthusiasm\" because I think each failure can be taken as a learning opportunity.
-                                                Hoping this persistence will get me to where I need to be in finance/tech.
-                                                Fun facts: I'm from Cabra and am half Vietnamese
-                                                Hobbies: gym, raves, motorcycling, reading & learning
-                                                Music: hardstyle, krnb, kpop, throwbacks, drill"
+                        "linkedin_url"      => "https://www.linkedin.com/in/jessica-wiraatmadja-b0313b237",
+                        "DegreeYear"        => "Bachelor of Commerce/Law - 2nd year",
+                        "drives"            => "I love malatang but have never finished an order of it because I always overestimate how much I can eat."
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02176-1-scaled-e1648191911196.jpg",
-                        "person_name"       => "Mimi Zhou",
+                        "person_name"       => "Jayson Chrishna",
                         "person_position"   => "Social Director",
                         "mailto_address"    => "events@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/mimi-zhou-b7245720a/",
-                        "DegreeYear"        => "Bachelors of Music/Commerce - 2nd year",
-                        "drives"            => "I try to songwrite in my spare time!"
+                        "linkedin_url"      => "linkedin.com/in/jaysonchrishna",
+                        "DegreeYear"        => "Bachelors of Commerce (Finance and Accounting - 2nd year",
+                        "drives"            => "I enjoy watching movies and TV shows, lounging around, and contemplating life"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -207,37 +198,37 @@ get_template_part('index','banner'); ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2021/01/Professional-Photos-15-of-29-scaled-e1650622761718.jpg",
-                        "person_name"       => "Nahum Adeel",
+                        "person_name"       => "Lucia Zou",
                         "person_position"   => "Education Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/vedant-shah1/",
-                        "DegreeYear"        => "3rd Year Actl/Comm",
-                        "drives"            => "The ability to leave an impact in the student community"
+                        "linkedin_url"      => "https://www.linkedin.com/in/lucia-zou",
+                        "DegreeYear"        => "Bachelor of Commerce/Law - 2nd year",
+                        "drives"            => "Hi I’m Lucia! Fun facts: I’m a Kiwi, I’m a ESTJ and PILATES IS LIFE!"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02190-1-scaled-e1648186826128.jpg",
-                        "person_name"       => "James Layland",
+                        "person_name"       => "Wendy Lee",
                         "person_position"   => "Education Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/bryan-gunawan-a9647818a/",
-                        "DegreeYear"        => "3rd Year Law/Commerce ",
-                        "drives"            => "Tall, dark and handsome"
+                        "linkedin_url"      => "https://www.linkedin.com/in/wendy-lee-80612b20a/",
+                        "DegreeYear"        => "Bachelor of Commerce/Law - 3rd year",
+                        "drives"            => "Driven and motivated student, curious about all aspects finance and law. I am an avid BTS 
+                                                fan who enjoys watching vlog content, and going on walks!"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02077-scaled-e1648185487670.jpg",
-                        "person_name"       => "Daniel Xu",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Eugene-Kang.jpg",
+                        "person_name"       => "Eugene Kang",
                         "person_position"   => "Education Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/danielxusydney",
-                        "DegreeYear"        => "Bachelor of Commerce/Law - 3rd year",
-                        "drives"            => "Commerce and law academic at UNSW who is driven by to always learn and grow as a person while also making a positive impact.
-                                                I enjoy travelling, trying new experiences and reading. In the future I hope to be doing something I love."
+                        "linkedin_url"      => "https://www.linkedin.com/in/eugene-kang-536786188/",
+                        "DegreeYear"        => "Bachelor of Commerce/Advanced Maths - 4th year",
+                        "drives"            => "I love snowsports"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -248,70 +239,80 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02080-scaled-e1648185445321.jpg",
-                        "person_name"       => "Salena Bhalerao",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Anthony-Saracsmo-Gerdes-scaled.jpg",
+                        "person_name"       => "Anthony Sarcasmo Gerdes",
                         "person_position"   => "Sponsorships Director",
                         "mailto_address"    => "sponsorships@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/salena-bhalerao/",
-                        "DegreeYear"        => "Bachelor of Law/Commerce - 3rd year",
-                        "drives"            => "I am an ESTJ who is hardworking and loves to meet new people!
-                                                In my spare time I like to play golf, write music and go shopping.
-                                                In the future, I'd love to work in corporate advisory after graduating."
+                        "linkedin_url"      => "https://www.linkedin.com/in/anthony-sarcasmo-gerdes-28b58a13a",
+                        "DegreeYear"        => "Bachelor of Commerce/Engineering - 4th year",
+                        "drives"            => "I've scubaed with sharks, studied with scholars and sailed with seafarers"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/04/Avaneesh.jpg",
-                        "person_name"       => "Avaneesh Shrestha",
+                        "person_name"       => "Ariana Lai",
                         "person_position"   => "Sponsorships Director",
                         "mailto_address"    => "sponsorships@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/avaneesh-shrestha-25331019b/",
-                        "DegreeYear"        => "Bachelor of Commerce/Information Systems - 3rd year",
-                        "drives"            => "My goal in life is to perpetually hit a level in which what I consider impossible today will be my future self’s warmup.
-                                                Fun facts: I eat raw ramen flavouring. I was mugged by a guy with a tree branch
-                                                Hobbies: gym, anime, cooking, listening to Nick Joeng’s laugh, throwing hands with my dog"
+                        "linkedin_url"      => "https://www.linkedin.com/in/ariana-lai",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Law - 2nd year",
+                        "drives"            => "I’m your classic commerce law student who loves to start off her day with 
+                                                some weetbix, happy beats and an iced oat latte"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/IMG_7616-scaled-e1648212731397.jpg",
-                        "person_name"       => "Mandy Zhou",
+                        "person_name"       => "Patrick Moore",
                         "person_position"   => "Sponsorships Director",
                         "mailto_address"    => "sponsorships@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/mandy-zhou-9a35ab1a0/",
-                        "DegreeYear"        => "Bachelor of Commerce & Law 3rd Year",
-                        "drives"            => "I'm another classic Commerce and Laws student but enjoy studying Design on the side. I currently work as a takeovers paralegal, but when I'm not working or studying, I love trying out unique food with friends, spontaneous adventures, and attempting different hobbies. I live by the motto 'why not?', which once led me to becoming a finalist in a national photography competition that I got dared into entering."
+                        "linkedin_url"      => "hhttps://www.linkedin.com/in/patrick-e-moore/",
+                        "DegreeYear"        => "Bachelor of Engineering (Software)/Science (Advanced Maths) - 2nd year",
+                        "drives"            => ""
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
             </div>
         </div>
         <br>
-        <div class="two-wide-row-container">
+        <div class="three-wide-row-container">
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02082-scaled-e1648185549913.jpg",
-                        "person_name"       => "Merrynal Anthony",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Christian-Gattellari-scaled.jpg",
+                        "person_name"       => "Christian Gattellari",
                         "person_position"   => "Research Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/anthony-merrynal-39324316b/",
-                        "DegreeYear"        => "Bachelor of Commerce/Economics - 5th year",
-                        "drives"            => "In my spare time i enjoy going to the gym, binging YouTube and getting hard carried in Valorant by my mates"
+                        "linkedin_url"      => "https://www.linkedin.com/in/christian-gattellari-7252b420b/",
+                        "DegreeYear"        => "Bachelor of Economics (Finance and Financial Econometrics) - 3rd year",
+                        "drives"            => ""
+                    );
+                    get_template_part("templates/individual_about_us_icon", null, $args);
+                ?>
+                <?php
+                    $args = array(
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Clarissa-Ong-1-scaled.jpg",
+                        "person_name"       => "Clarissa Ong",
+                        "person_position"   => "Research Director",
+                        "mailto_address"    => "academic@unswfinsoc.org.au",
+                        "linkedin_url"      => "www.linkedin.com/in/clarissa-ong",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Information Systems - 2nd year",
+                        "drives"            => "Pro: loves trying new foods.
+                                                Con: will steal your food."
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02079-scaled-e1648185047363.jpg",
-                        "person_name"       => "Matthew Sulistyo",
+                        "person_name"       => "Arnav Narula",
                         "person_position"   => "Research Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/matthew-sulistyo/",
-                        "DegreeYear"        => "3rd Year Law/Commerce ",
-                        "drives"            => "Chill"
+                        "linkedin_url"      => "https://www.linkedin.com/in/arnavnarula/",
+                        "DegreeYear"        => "Bachelor of Commerce/Software Engineering - 2nd year",
+                        "drives"            => "Keen to continue learning and making a difference in society."
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -321,29 +322,41 @@ get_template_part('index','banner'); ?>
         <br>
         <br>
         <h1>Operations</h1>
-        <div class="two-wide-row-container">
+        <div class="three-wide-row-container">
             <div class="about-us-row">
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02081-scaled-e1648185496885.jpg",
-                        "person_name"       => "Chrystal Mao",
+                        "person_name"       => "Vivian Zhao",
                         "person_position"   => "Marketing Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/jessqiao/",
-                        "DegreeYear"        => "3rd Year Commerce (Finance)/ Computer Science ",
-                        "drives"            => "Sagittarius, short and loud"
+                        "linkedin_url"      => "https://www.linkedin.com/in/vivian-zhao-44bba3214",
+                        "DegreeYear"        => "Bachelor of Commerce/Media - 4th year",
+                        "drives"            => "My favourite pastime is discovering new music 🎶"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02084-scaled-e1648186030158.jpg",
-                        "person_name"       => "Jeremy Wang",
+                        "person_name"       => "Raymond Lee",
                         "person_position"   => "Marketing Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/jeremy-wang-a622351bb/",
+                        "linkedin_url"      => "https://www.linkedin.com/mwlite/in/raymond-lee-01955b203",
+                        "DegreeYear"        => "Bachelor of Politics, Philosophy and Economics/Law - 2nd year",
+                        "drives"            => "Enjoying the journey is half the fun"
+                    );
+                    get_template_part("templates/individual_about_us_icon", null, $args);
+                ?>
+                <?php
+                    $args = array(
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02084-scaled-e1648186030158.jpg",
+                        "person_name"       => "Melody Sze",
+                        "person_position"   => "Marketing Director",
+                        "mailto_address"    => "operations@unswfinsoc.org.au",
+                        "linkedin_url"      => "https://www.linkedin.com/in/melody-sze-523130228/",
                         "DegreeYear"        => "Bachelor of Commerce/Information Systems - 3rd year",
-                        "drives"            => "I enjoy watching shows, basketball and coaching tennis!"
+                        "drives"            => "My hobbies include running, cooking and sleeping"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -354,40 +367,37 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02097-scaled-e1648186687639.jpg",
-                        "person_name"       => "Rebecca Li",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Justin-Nelson-2-scaled.jpg",
+                        "person_name"       => "Justin Nelson",
                         "person_position"   => "Publications Director",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/rebecca-l-b80a4119a/",
-                        "DegreeYear"        => "Bachelor of Commerce (International) - 4th year",
-                        "drives"            => "Still on a journey in finding what I truly enjoy as a career.
-                                                Learning languages is my obsession, currently fluent in three but studying two more.
-                                                Spare time is spent doing pilates, painting and drinking too much coffee."
+                        "linkedin_url"      => "https://www.linkedin.com/in/justin-nelson-61991b20a/",
+                        "DegreeYear"        => "Bachelor of Actuarial Studies/Economics - 3rd year",
+                        "drives"            => "Enjoy exploring nature and learning something new."
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02089-scaled-e1648186052294.jpg",
-                        "person_name"       => "Oliver Ryan",
+                        "person_name"       => "Senara Kumara-Devage",
                         "person_position"   => "Publications Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
                         "linkedin_url"      => "https://www.linkedin.com/in/oliver-nicholas-ryan/",
-                        "DegreeYear"        => "3rd year Commerce (Finance)/Law",
-                        "drives"            => "Being able to look back on my life without regrets."
+                        "DegreeYear"        => "3rd year Commerce (Finance and Fintech)/Information Systems - 3rd year",
+                        "drives"            => ""
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/IMG_5560-Melody-Sze-e1648190480242.jpg",
-                        "person_name"       => "Melody Sze",
+                        "person_name"       => "Yasiru Jayasekara",
                         "person_position"   => "Publications Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/melody-sze-523130228/",
-                        "DegreeYear"        => "Bachelor of Commerce/Arts - 2nd year",
-                        "drives"            => "I am always curious about the world around us with exceptional interpersonal skills and a genuine thirst for knowledge.
-                                                My hobbies include cooking, reading the news, running, and I am outgoing to chat about anything! "
+                        "linkedin_url"      => "https://www.linkedin.com/in/yasiru-jayasekara/",
+                        "DegreeYear"        => "Bachelor of Actuarial Studies/Commerce - 2nd year",
+                        "drives"            => "Excited to challenge myself and drive meaningful change."
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -399,24 +409,24 @@ get_template_part('index','banner'); ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02162-scaled-e1648188736826.jpg",
-                        "person_name"       => "Jeffery Ge",
+                        "person_name"       => "Tiffany Cheung",
                         "person_position"   => "IT Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/jefferyge/",
-                        "DegreeYear"        => "Bachelors of Commerce/Computer Science - 4th year",
-                        "drives"            => "I like to eat lots of lots of lots of food"
+                        "linkedin_url"      => "https://www.linkedin.com/in/tiffany-cheung-a20bb7213//",
+                        "DegreeYear"        => "Bachelors of Commerce (Finance)/Information Systems - 4th year",
+                        "drives"            => "Frozen yoghurt > ice cream"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02092-1-1-scaled-e1648192566127.jpg",
-                        "person_name"       => "Skyler Zou",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Brian-Nhan.jpeg",
+                        "person_name"       => "Brian Nhan",
                         "person_position"   => "IT Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/skyler-zou-2729ab213/",
-                        "DegreeYear"        => "Bachelor of Actuarial Studies/Commerce - 4th year",
-                        "drives"            => "I am motivated to bring positive change/value to the people and community around me and to be the best version of myself."
+                        "linkedin_url"      => "https://www.linkedin.com/in/briannhan/",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Computer Science - 2nd year",
+                        "drives"            => ""
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
