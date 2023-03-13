@@ -22,7 +22,7 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02116-scaled-e1648184720598.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/James-Layland-scaled.jpg",
                         "person_name"       => "James Layland",
                         "person_position"   => "Co-President",
                         "mailto_address"    => "https://www.linkedin.com/in/james-layland/",
@@ -33,7 +33,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02122-scaled-e1648188187561.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Salena-Bhalerao-scaled.jpg",
                         "person_name"       => "Salena Bhalerao",
                         "person_position"   => "Co-President",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
@@ -50,7 +50,7 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02141-scaled-e1648188696168.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Warren-O-scaled.jpg",
                         "person_name"       => "Warren O",
                         "person_position"   => "Vice President (Activities)",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
@@ -92,7 +92,7 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02096-scaled-e1648186179169.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Oliver-Ryan-scaled.jpg",
                         "person_name"       => "Oliver Ryan",
                         "person_position"   => "Vice President (Operations)",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
@@ -104,7 +104,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02108-scaled-e1648187698603.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Galen-Yuan-scaled.jpg",
                         "person_name"       => "Galen Yuan",
                         "person_position"   => "General Secretary",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
@@ -153,7 +153,7 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02102-scaled-e1648186727340.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Jordan-Li.jpg",
                         "person_name"       => "Jordan Li",
                         "person_position"   => "Social Director",
                         "mailto_address"    => "events@unswfinsoc.org.au",
@@ -165,7 +165,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02105-scaled-e1648187670897.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Jessica-Wiraatmadja-scaled.jpg",
                         "person_name"       => "Jessica Wiraatmadja",
                         "person_position"   => "Social Director",
                         "mailto_address"    => "events@unswfinsoc.org.au",
@@ -177,7 +177,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02176-1-scaled-e1648191911196.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Jayson-Chrishna-scaled.jpg",
                         "person_name"       => "Jayson Chrishna",
                         "person_position"   => "Social Director",
                         "mailto_address"    => "events@unswfinsoc.org.au",
@@ -197,7 +197,7 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2021/01/Professional-Photos-15-of-29-scaled-e1650622761718.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Lucia-Zou-scaled.jpg",
                         "person_name"       => "Lucia Zou",
                         "person_position"   => "Education Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
@@ -209,7 +209,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02190-1-scaled-e1648186826128.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Wendy-Lee-scaled.jpg",
                         "person_name"       => "Wendy Lee",
                         "person_position"   => "Education Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
@@ -251,7 +251,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/04/Avaneesh.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/1675003997133.jpeg",
                         "person_name"       => "Ariana Lai",
                         "person_position"   => "Sponsorships Director",
                         "mailto_address"    => "sponsorships@unswfinsoc.org.au",
@@ -326,7 +326,7 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02081-scaled-e1648185496885.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Vivian-Zhao-scaled.jpg",
                         "person_name"       => "Vivian Zhao",
                         "person_position"   => "Marketing Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
@@ -338,7 +338,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02084-scaled-e1648186030158.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Raymond-Lee-scaled.jpg",
                         "person_name"       => "Raymond Lee",
                         "person_position"   => "Marketing Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
@@ -350,7 +350,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02084-scaled-e1648186030158.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Melody-Sze.jpg",
                         "person_name"       => "Melody Sze",
                         "person_position"   => "Marketing Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
@@ -383,15 +383,15 @@ get_template_part('index','banner'); ?>
                         "person_name"       => "Senara Kumara-Devage",
                         "person_position"   => "Publications Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/oliver-nicholas-ryan/",
-                        "DegreeYear"        => "3rd year Commerce (Finance and Fintech)/Information Systems - 3rd year",
+                        "linkedin_url"      => "https://www.linkedin.com/in/senarajkd/",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance and Fintech)/Information Systems - 3rd year",
                         "drives"            => ""
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/IMG_5560-Melody-Sze-e1648190480242.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Yasiru-Jayasekara-scaled.jpg",
                         "person_name"       => "Yasiru Jayasekara",
                         "person_position"   => "Publications Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
@@ -408,7 +408,7 @@ get_template_part('index','banner'); ?>
             <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02162-scaled-e1648188736826.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Tiffany-Cheung-scaled.jpg",
                         "person_name"       => "Tiffany Cheung",
                         "person_position"   => "IT Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
