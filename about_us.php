@@ -75,7 +75,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02068-scaled-e1648184949212.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/04/Avaneesh.jpg",
                         "person_name"       => "Avaneesh Shrestha",
                         "person_position"   => "Vice President (Externals)",
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
