@@ -39,7 +39,7 @@ get_template_part('index','banner'); ?>
                         "mailto_address"    => "enquiries@unswfinsoc.org.au",
                         "linkedin_url"      => "https://www.linkedin.com/in/salena-bhalerao/",
                         "DegreeYear"        => "Bachelor of Commerce (Finance)/Law - 4th year",
-                        "drives"            => "I am currently working in Investment Banking as an intern and love travel, golf and trying different food."                        "
+                        "drives"            => "I am currently working in Investment Banking as an intern and love travel, golf and trying different food." 
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -426,7 +426,7 @@ get_template_part('index','banner'); ?>
                         "mailto_address"    => "operations@unswfinsoc.org.au",
                         "linkedin_url"      => "https://www.linkedin.com/in/briannhan/",
                         "DegreeYear"        => "Bachelor of Commerce (Finance)/Computer Science - 2nd year",
-                        "drives"            => ""
+                        "drives"            => "Coconut water on top"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
