@@ -88,7 +88,7 @@ get_template_part('index','banner'); ?>
             </div>
         </div>
         <br>
-        <div class="two-wide-row-container">
+        <div class="three-wide-row-container">
             <div class="about-us-row">
                 <?php
                     $args = array(
@@ -111,6 +111,18 @@ get_template_part('index','banner'); ?>
                         "linkedin_url"      => "https://www.linkedin.com/in/galen-yuan/",
                         "DegreeYear"        => "Bachelor of Commerce/Computer Engineering - 3rd year",
                         "drives"            => "Gym"
+                    );
+                    get_template_part("templates/individual_about_us_icon", null, $args);
+                ?>
+                <?php
+                    $args = array(
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02141-scaled-e1648188696168.jpg",
+                        "person_name"       => "Queenie Lee",
+                        "person_position"   => "Chairperson",
+                        "mailto_address"    => "enquiries@unswfinsoc.org.au",
+                        "linkedin_url"      => "https://www.linkedin.com/in/queeniecyli/",
+                        "DegreeYear"        => "Bachelor of Commerce (Fintech)/Information Systems - 4th year",
+                        "drives"            => "I trust in myself to achieve what I want to achieve"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
@@ -297,7 +309,7 @@ get_template_part('index','banner'); ?>
                         "person_name"       => "Clarissa Ong",
                         "person_position"   => "Research Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
-                        "linkedin_url"      => "www.linkedin.com/in/clarissa-ong",
+                        "linkedin_url"      => "https://www.linkedin.com/in/clarissa-ong/",
                         "DegreeYear"        => "Bachelor of Commerce (Finance)/Information Systems - 2nd year",
                         "drives"            => "Pro: loves trying new foods.
                                                 Con: will steal your food."
@@ -306,7 +318,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02079-scaled-e1648185047363.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Arnav-Narula.jpeg",
                         "person_name"       => "Arnav Narula",
                         "person_position"   => "Research Director",
                         "mailto_address"    => "academic@unswfinsoc.org.au",
@@ -412,7 +424,7 @@ get_template_part('index','banner'); ?>
                         "person_name"       => "Tiffany Cheung",
                         "person_position"   => "IT Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/tiffany-cheung-a20bb7213//",
+                        "linkedin_url"      => "https://www.linkedin.com/in/tiffany-cheung-a20bb7213/",
                         "DegreeYear"        => "Bachelors of Commerce (Finance)/Information Systems - 4th year",
                         "drives"            => "Frozen yoghurt > ice cream"
                     );
