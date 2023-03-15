@@ -425,7 +425,7 @@ get_template_part('index','banner'); ?>
                         "person_position"   => "IT Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
                         "linkedin_url"      => "https://www.linkedin.com/in/tiffany-cheung-a20bb7213/",
-                        "DegreeYear"        => "Bachelors of Commerce (Finance)/Information Systems - 4th year",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Information Systems - 4th year",
                         "drives"            => "Frozen yoghurt > ice cream"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
