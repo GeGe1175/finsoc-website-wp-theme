@@ -111,7 +111,7 @@ get_template_part('index','banner'); ?>
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>    
                     </div>
-                    <!-- <div class="subheading">
+                    <div class="subheading">
                         <br/>
                         <h1 class="h2Custom"><span style="color:#9F6C3F">BRONZE</span> SPONSORS</h1>
                         <hr/>
@@ -127,7 +127,7 @@ get_template_part('index','banner'); ?>
                             );
                             get_template_part("templates/individual_sponsor", null, $args);
                         ?>
-                    </div> -->
+                    </div>
                 </div>
                 <div class="section2 applyContainer">
                     <a name="apply"></a>
