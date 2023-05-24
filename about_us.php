@@ -63,20 +63,19 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Daniel-Xu.jpg",
-                        "person_name"       => "Daniel Xu",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/05/Matthew-Chen.jpeg",
+                        "person_name"       => "Matthew Chen",
                         "person_position"   => "Vice President (Externals)",
                         "mailto_address"    => "externals@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/danielxusydney/",
-                        "DegreeYear"        => "Bachelor of Commerce/Law - 4th year",
-                        "drives"            => "Commerce and law academic at UNSW who is driven by to always learn and grow as a 
-                                                person while also making a positive impact. I enjoy travelling, trying new experiences and reading. In the future I hope to be doing something I love."
+                        "linkedin_url"      => "https://www.linkedin.com/in/matthew-g-chen/",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Information Systems - 4th year",
+                        "drives"            => ""
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/04/Avaneesh.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/05/Avaneesh-Shrestha.jpg",
                         "person_name"       => "Avaneesh Shrestha",
                         "person_position"   => "Vice President (Externals)",
                         "mailto_address"    => "externals@unswfinsoc.org.au",
@@ -248,7 +247,7 @@ get_template_part('index','banner'); ?>
             </div>
         </div>
         <br>
-        <div class="three-wide-row-container">
+        <div class="two-wide-row-container">
             <div class="about-us-row">
                 <?php
                     $args = array(
@@ -264,7 +263,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/1675003997133.jpeg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/05/Ariana-Lai-scaled.jpg",
                         "person_name"       => "Ariana Lai",
                         "person_position"   => "Sponsorships Director",
                         "mailto_address"    => "sponsorship@unswfinsoc.org.au",
@@ -275,14 +274,31 @@ get_template_part('index','banner'); ?>
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
+            </div>
+        </div>
+        <br>
+        <div class="two-wide-row-container">
+            <div class="about-us-row">
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/IMG_7616-scaled-e1648212731397.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/05/blank-pfp.webp",
                         "person_name"       => "Patrick Moore",
                         "person_position"   => "Sponsorships Director",
                         "mailto_address"    => "sponsorship@unswfinsoc.org.au",
                         "linkedin_url"      => "hhttps://www.linkedin.com/in/patrick-e-moore/",
                         "DegreeYear"        => "Bachelor of Engineering (Software)/Science (Advanced Maths) - 2nd year",
+                        "drives"            => ""
+                    );
+                    get_template_part("templates/individual_about_us_icon", null, $args);
+                ?>
+                <?php
+                    $args = array(
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/05/Frankie-Zhong.jpeg",
+                        "person_name"       => "Frankie Zhong",
+                        "person_position"   => "Sponsorships Director",
+                        "mailto_address"    => "sponsorship@unswfinsoc.org.au",
+                        "linkedin_url"      => "https://www.linkedin.com/in/frankie-zhong/",
+                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Science (Statistics) - 3rd year",
                         "drives"            => ""
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
@@ -392,7 +408,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02089-scaled-e1648186052294.jpg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/05/blank-pfp.webp",
                         "person_name"       => "Senara Kumara-Devage",
                         "person_position"   => "Publications Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
@@ -433,7 +449,7 @@ get_template_part('index','banner'); ?>
                 ?>
                 <?php
                     $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Brian-Nhan.jpeg",
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/05/Brian-Nhan-scaled.jpg",
                         "person_name"       => "Brian Nhan",
                         "person_position"   => "IT Director",
                         "mailto_address"    => "operations@unswfinsoc.org.au",
