@@ -44,7 +44,7 @@
 				/* translators: placeholder replaced with string */
 				printf( esc_html__( 'Theme: %1$s by %2$s.', 'busiway' ), 'Busiway', '<a href="' . esc_url( __( 'https://themeansar.com/', 'busiway' ) ) . '" rel="designer">Themeansar</a>' );
 				?>		 -->
-				UNSW Finance and Banking Society © 2023
+				UNSW Finance and Banking Society © 2021
 			</div>
 		</div>
         <div class="col-md-6 text-right">
