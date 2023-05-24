@@ -117,7 +117,7 @@ get_template_part('index','banner'); ?>
                 <?php
                     $args = array(
                         "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2022/03/DSC02141-scaled-e1648188696168.jpg",
-                        "person_name"       => "Queenie Lee",
+                        "person_name"       => "Queenie Li",
                         "person_position"   => "Chairperson",
                         "mailto_address"    => "secretary@unswfinsoc.org.au",
                         "linkedin_url"      => "https://www.linkedin.com/in/queeniecyli/",
@@ -205,48 +205,6 @@ get_template_part('index','banner'); ?>
         <br>
         <br>
         <h1>Externals</h1>
-        <div class="three-wide-row-container">
-            <div class="about-us-row">
-                <?php
-                    $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Lucia-Zou-scaled.jpg",
-                        "person_name"       => "Lucia Zou",
-                        "person_position"   => "Education Director",
-                        "mailto_address"    => "education@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/lucia-zou",
-                        "DegreeYear"        => "Bachelor of Commerce/Law - 2nd year",
-                        "drives"            => "Hi I’m Lucia! Fun facts: I’m a Kiwi, I’m a ESTJ and PILATES IS LIFE!"
-                    );
-                    get_template_part("templates/individual_about_us_icon", null, $args);
-                ?>
-                <?php
-                    $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Wendy-Lee-scaled.jpg",
-                        "person_name"       => "Wendy Lee",
-                        "person_position"   => "Education Director",
-                        "mailto_address"    => "education@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/wendy-lee-80612b20a/",
-                        "DegreeYear"        => "Bachelor of Commerce/Law - 3rd year",
-                        "drives"            => "Driven and motivated student, curious about all aspects finance and law. I am an avid BTS 
-                                                fan who enjoys watching vlog content, and going on walks!"
-                    );
-                    get_template_part("templates/individual_about_us_icon", null, $args);
-                ?>
-                <?php
-                    $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Eugene-Kang.jpg",
-                        "person_name"       => "Eugene Kang",
-                        "person_position"   => "Education Director",
-                        "mailto_address"    => "education@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/eugene-kang-536786188/",
-                        "DegreeYear"        => "Bachelor of Commerce/Advanced Maths - 4th year",
-                        "drives"            => "I love snowsports"
-                    );
-                    get_template_part("templates/individual_about_us_icon", null, $args);
-                ?>
-            </div>
-        </div>
-        <br>
         <div class="two-wide-row-container">
             <div class="about-us-row">
                 <?php
@@ -300,6 +258,48 @@ get_template_part('index','banner'); ?>
                         "linkedin_url"      => "https://www.linkedin.com/in/frankie-zhong/",
                         "DegreeYear"        => "Bachelor of Commerce (Finance)/Science (Statistics) - 3rd year",
                         "drives"            => ""
+                    );
+                    get_template_part("templates/individual_about_us_icon", null, $args);
+                ?>
+            </div>
+        </div>
+        <br>
+        <div class="three-wide-row-container">
+            <div class="about-us-row">
+                <?php
+                    $args = array(
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Lucia-Zou-scaled.jpg",
+                        "person_name"       => "Lucia Zou",
+                        "person_position"   => "Education Director",
+                        "mailto_address"    => "education@unswfinsoc.org.au",
+                        "linkedin_url"      => "https://www.linkedin.com/in/lucia-zou",
+                        "DegreeYear"        => "Bachelor of Commerce/Law - 2nd year",
+                        "drives"            => "Hi I’m Lucia! Fun facts: I’m a Kiwi, I’m a ESTJ and PILATES IS LIFE!"
+                    );
+                    get_template_part("templates/individual_about_us_icon", null, $args);
+                ?>
+                <?php
+                    $args = array(
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Wendy-Lee-scaled.jpg",
+                        "person_name"       => "Wendy Lee",
+                        "person_position"   => "Education Director",
+                        "mailto_address"    => "education@unswfinsoc.org.au",
+                        "linkedin_url"      => "https://www.linkedin.com/in/wendy-lee-80612b20a/",
+                        "DegreeYear"        => "Bachelor of Commerce/Law - 3rd year",
+                        "drives"            => "Driven and motivated student, curious about all aspects finance and law. I am an avid BTS 
+                                                fan who enjoys watching vlog content, and going on walks!"
+                    );
+                    get_template_part("templates/individual_about_us_icon", null, $args);
+                ?>
+                <?php
+                    $args = array(
+                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/03/Eugene-Kang.jpg",
+                        "person_name"       => "Eugene Kang",
+                        "person_position"   => "Education Director",
+                        "mailto_address"    => "education@unswfinsoc.org.au",
+                        "linkedin_url"      => "https://www.linkedin.com/in/eugene-kang-536786188/",
+                        "DegreeYear"        => "Bachelor of Commerce/Advanced Maths - 4th year",
+                        "drives"            => "I love snowsports"
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
