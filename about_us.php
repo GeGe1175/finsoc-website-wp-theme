@@ -205,7 +205,7 @@ get_template_part('index','banner'); ?>
         <br>
         <br>
         <h1>Externals</h1>
-        <div class="three-wide-row-container">
+        <div class="two-wide-row-container">
             <div class="about-us-row">
                 <?php
                     $args = array(
@@ -229,18 +229,6 @@ get_template_part('index','banner'); ?>
                         "DegreeYear"        => "Bachelor of Commerce (Finance)/Law - 2nd year",
                         "drives"            => "I’m your classic commerce law student who loves to start off her day with 
                                                 some weetbix, happy beats and an iced oat latte"
-                    );
-                    get_template_part("templates/individual_about_us_icon", null, $args);
-                ?>
-                <?php
-                    $args = array(
-                        "image_src"         => "https://unswfinsoc.org.au/wp-content/uploads/2023/05/Frankie-Zhong.jpeg",
-                        "person_name"       => "Frankie Zhong",
-                        "person_position"   => "Sponsorships Director",
-                        "mailto_address"    => "sponsorship@unswfinsoc.org.au",
-                        "linkedin_url"      => "https://www.linkedin.com/in/frankie-zhong/",
-                        "DegreeYear"        => "Bachelor of Commerce (Finance)/Science (Statistics) - 3rd year",
-                        "drives"            => ""
                     );
                     get_template_part("templates/individual_about_us_icon", null, $args);
                 ?>
